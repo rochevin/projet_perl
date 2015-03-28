@@ -1,0 +1,12 @@
+Rapport rendu à M. Lecroq, dans le cadre de l'UE programmation en Perl
+Auteur : ROCHER Vincent
+Nombre de fichiers contenus dans l'archive : 11
+Noms des fichiers contenus dans l'archive :
+-Répertoire d'origine : example_multi.fasta, example.fasta, example.vcf, projet_perl1.pl, projet_perl2.pl
+-Dossier Résultats : example.pdf
+-Dossier example_multi.fasta : aureofaciensstrainLMG1245OprF(oprF)gene,completecds.fasta et chlororaphisstrainLMG5004OprF(oprF)gene,completecds.fasta
+-Dossier example.fasta : gi|459212741/63653960-63656206SolanumlycopersicumcultivarHeinz1706chromosome7,SL2.40,wholegenomeshotgunsequence.fasta
+
+On utilise comme exemple pour projet_perl1.pl les fichiers example_multi.fasta et example.fasta dont les résultats obtenus après execution du script sont contenus dans le dossier du même nom.
+
+On utilise comme example pour projet_perl2.pl le fichier example.vcf dont le résultat est fournis dans le dossier Résultats.
